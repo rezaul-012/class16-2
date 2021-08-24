@@ -1,0 +1,165 @@
+.header{
+ background-color: #101446;
+}
+.logo img{
+ width: 100px;
+ margin-left: 100px;
+}
+.menu{}
+.menu ul{
+    text-align: end;
+
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    padding:0 24px;
+    line-height:50px;
+
+}
+/* bener */
+.bener{
+    background-image: url(./intro-bg.jpg);
+    background-repeat: no-repeat;
+    padding: 350px;
+    background-size: cover;
+    background-position: center;
+
+}
+.benersec{
+    text-align: center;
+ color: white;
+}
+.benersec a{
+    color:white;
+    text-decoration:none;
+    background-color:#337AB7;
+    padding:10px 15px;
+    border-radius:5px;
+    display:inline-block;
+    margin-top:50px;
+}
+/* bener2 */
+.bener2{
+    background-color: #BAC1F3;
+    padding: 150px;
+    text-align: center;
+}
+.bener2 h1{
+
+    font-size: 70px;
+}
+
+.img1{
+    margin-top: 80px;
+}
+
+.img1 img{
+
+}
+.img1 h5{
+font-size: 16px;
+}
+.img1 p{
+    width:200px;
+    margin:auto;
+}
+.img1 a{
+background-color: #337AB7
+;
+color:white;
+text-decoration:none;
+padding:5px 10px;
+border-radius:5px;
+display:inline-block;
+margin-top:20px;
+}
+
+/* bener3 */
+.bener3{
+    background-color: #C2D4EA;
+    padding: 150px;
+    text-align: center;
+    
+}
+.bener3 h1{
+font-size: 50px;
+margin-bottom: 60px;
+}
+.img3{
+
+}
+.img3 .pax{
+    display:inline-block;
+    margin-left:90px;
+    line-height:1.6;
+    text-align: justify;
+
+    
+}
+.img3 .pax2{
+    
+        text-align:justify;
+        margin-left:70px;
+        margin-top:30px;
+}
+.about{
+    text-align: justify;
+    width:500px;
+    line-height:30px;
+    margin-left:30px;
+}
+
+/* maps */
+.maps{
+  background-color: #F5F5F5;
+  padding: 150px;
+  text-align: center;
+}
+.maps h1{
+    font-size:60px;
+    margin-bottom:60px;
+}
+.maps p {
+margin-left: 80px;
+}
+ 
+.table{
+    text-align: justify;
+}
+.table input{
+    height:30px;
+    width:500px;
+    border: 2px solid rgb(202, 193, 193);
+    
+}
+.table textarea{
+    height:100px;
+    width:500px;
+    border: 2px solid rgb(202, 193, 193);
+}
+.table a{
+    text-decoration:none;
+    display:inline-block;
+    color:white;
+    background-color:#5BC0DE;
+    padding:5px 10px;
+    border-radius:5px;
+    margin-top:15px;
+}
+
+/* footer */
+.footer{
+    background-color: #0062D3;
+}
+.footer .foot{
+    color: white;
+    text-align: center;
+    padding: 20px;
+
+}
